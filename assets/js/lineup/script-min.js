@@ -1,0 +1,1 @@
+$(function(){$(".cart_block .item_name").matchHeight()});
